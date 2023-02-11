@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora {
+public class Calculadora{
 	
 	public static void main(String[] args) {
 		
@@ -19,4 +19,7 @@ public class Calculadora {
 		divi = num1 / num2;
 		System.out.println("O resultado da divisão é:"+divi);
 		}
+
+	public Calculadora() {
+	}
 	}
