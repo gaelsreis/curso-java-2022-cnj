@@ -1,6 +1,8 @@
-# Curso de Java Básico
+# Java
 
-## Exercícios práticos
+<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+
+### Curso básico 2022: Exercícios práticos
 
 Objetivo: Habilitar para apoiar a implantação e utilização da Plataforma Digital do Poder Judiciario (PDPJ-Br).
 
