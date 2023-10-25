@@ -3,16 +3,18 @@ Tribunal de Justiça do Estado do Rio de Janeiro (TJERJ)
 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
-### Curso básico: Exercícios práticos
+### Curso básico
 
-Objetivo: Habilitar para apoiar a implantação e utilização da Plataforma Digital do Poder Judiciario (PDPJ-Br).
+Exercícios práticos
 
-Metodologia: Aprendizagem Baseada em Projetos / Project Based Learning (PBL).
+- Objetivo: Habilitar para apoiar a implantação e utilização da Plataforma Digital do Poder Judiciario (PDPJ-Br).
 
-Instrutores: Izamara Gonçalves, Lucas Cabral e Luciano Alonso.
+- Metodologia: Aprendizagem Baseada em Projetos / Project Based Learning (PBL).
 
-Realizado por: Instituto de Tecnologia & Sociedade do Rio (ITS).
+- Instrutores: Izamara Gonçalves, Lucas Cabral e Luciano Alonso.
 
-Coordenado por: Programa das Nações Unidas para o Desenvolvimento (PNUD) e Conselho Nacional de Justiça (CNJ)
+- Realizado por: Instituto de Tecnologia & Sociedade do Rio (ITS).
 
-Apoiado por: Conselho de Justiça Federal, Superior Tribunal de Justiça (STJ), Justiça do Trabalho e Tribunal Superior Eleitoral (TSE).
+- Coordenado por: Programa das Nações Unidas para o Desenvolvimento (PNUD) e Conselho Nacional de Justiça (CNJ)
+
+- Apoiado por: Conselho de Justiça Federal, Superior Tribunal de Justiça (STJ), Justiça do Trabalho e Tribunal Superior Eleitoral (TSE).
