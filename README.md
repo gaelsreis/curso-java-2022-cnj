@@ -1,5 +1,6 @@
-# curso-java-2022-cnj
-Curso de Java Básico - exercícios práticos.
+# Curso de Java Básico
+
+## Exercícios práticos
 
 Objetivo: Habilitar para apoiar a implantação e utilização da Plataforma Digital do Poder Judiciario (PDPJ-Br).
 
