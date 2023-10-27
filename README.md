@@ -1,8 +1,6 @@
 # Programação Orientada a Objetos com Java Standart Edition 15
 
-Curso básico (40 horas)
-
-Exercícios práticos
+Exercícios práticos do curso básico (40 horas)
 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
