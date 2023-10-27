@@ -1,13 +1,12 @@
-# Java
-Tribunal de Justiça do Estado do Rio de Janeiro (TJERJ)
+# Programação Orientada a Objetos com Java Standart Edition 15
+
+Curso básico (40 horas)
+
+Exercícios práticos
 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
-### Curso básico (40 horas)
-
-Programação Orientada a Objetos com Java Standart Edition 15
-
-Exercícios práticos
+### Tribunal de Justiça do Estado do Rio de Janeiro (TJERJ)
 
 - Objetivo: Habilitar para apoiar a implantação e utilização da Plataforma Digital do Poder Judiciario (PDPJ-Br).
 
